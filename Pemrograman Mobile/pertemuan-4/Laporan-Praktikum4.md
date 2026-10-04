@@ -26,8 +26,8 @@
  7. jalankan perintah npx expo start --web
  8. konfirmasi Bukti
  
- ![alt text](image.png)
- ![alt text](image-1.png)
+ ![alt text](<Screenshot 2026-10-04 160427.png>)
+ ![alt text](<Screenshot 2026-10-04 160453.png>)
  ![alt text](vdeo2-1.gif)
 
 
@@ -39,9 +39,8 @@
  5. Simpan file, jalankan npx expo start --web
  6. Konfirmasi Bukti :
 
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](<Screenshot 2026-10-04 160540.png>)
+![alt text](<Screenshot 2026-10-04 160603.png>)
 ![alt text](vdeo3-1.gif)
  
 
@@ -53,10 +52,8 @@
 5. Geser layar dari kiri ke kanan (atau klik ikon hamburger) untuk memunculkan menu Drawer
 6. Konfirmasi Bukti:
 
-![alt text](image-9.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
+![alt text](<Screenshot 2026-10-04 160654.png>)
+![alt text](<Screenshot 2026-10-04 160707.png>)
 ![alt text](vdeo4-1.gif)
 
 ### Langkah 5 : Nested Navigation (Stack + Tab + Drawer) ###
