@@ -28,7 +28,7 @@
  
  ![alt text](image.png)
  ![alt text](image-1.png)
- <video controls src="WhatsApp Video 2026-09-28 at 12.10.54.mp4" title="Title"></video>
+ ![alt text](vdeo2-1.gif)
 
 
  ### Langkah 3 : Membuat Bottom Tab Navigation ###
@@ -42,8 +42,8 @@
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
-![](image-5.png)
- <video controls src="WhatsApp Video 2026-10-04 at 15.17.57.mp4" title="Title"></video>
+![alt text](vdeo3-1.gif)
+ 
 
  ### Langkah 4 : Membuat Drawer Navigation ###
 1. Instalasi pustaka drawer: npm install @react-navigation/drawer
@@ -57,9 +57,9 @@
 ![alt text](image-6.png)
 ![alt text](image-7.png)
 ![alt text](image-8.png)
-<video controls src="WhatsApp Video 2026-10-04 at 15.34.06.mp4" title="Title"></video>
+![alt text](vdeo4-1.gif)
 
-### Langkah 5 : Tugas Praktikum — Nested Navigation (Stack + Tab + Drawer) ###
+### Langkah 5 : Nested Navigation (Stack + Tab + Drawer) ###
 1. Buat 1 file tambahan di screens, yaitu SettingsScreen.js, sebagai menu khusus Drawer yang tidak muncul di Tab
 2. Rancang struktur navigasi bersarang: Stack Navigator (paling luar, berisi Login → Signup → MainApp) membungkus Drawer Navigator (berisi Beranda & Pengaturan), dan Beranda di dalam Drawer berisi Tab Navigator (Home & Profile)
 3. Ubah Login.js dan Signup.js, tambahkan tombol "Masuk ke Aplikasi" yang memanggil navigation.replace('MainApp') agar bisa masuk ke navigasi bersarang setelah login/daftar
@@ -68,4 +68,7 @@
 6. Simpan file, jalankan npx expo start --web, uji seluruh alur: Login → Signup (Stack) → Masuk ke Aplikasi → Drawer (Beranda/Pengaturan) → Beranda berisi Tab (Home/Profile)
 7. Konfirmasi Bukti :
 
-<video controls src="20261004-0858-46.1128842.mp4" title="Title"></video>
+![alt text](image-10.png)
+![alt text](vdeo5-1.gif)
+
+
